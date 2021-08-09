@@ -1,7 +1,7 @@
 ---
-title: "About this site"
+title: "About Me"
 description: |
-  Some additional details about the website
+  **Wylie Hampson** I am a current graduate student at the Bren School of Environmental Science and Management at UC Santa Barbara, and I am a part of their first ever Masters of Environmental Data Science program. Growing up I was always passionate about being outdoors, so I wanted to find a career that would allow me to work to protect the environment. I got a Bachelors of Science degree from the University of Washington in biology, with a focus in ecology, conservation, and evolution. Since 2017, I have lived in Bellingham, WA, where I worked on the city's aquatic invasive species team as well as the Washington Conservation Corps, an Americorps program. I have thoroughly enjoyed getting a few years of experience doing conservation field work, but I wanted to further my career and apply the more technical math and science skills that I possess to make a larger impact. The current goal for my career is to apply data science tools to find new agricultural techniques that will not only economically benefit the producers and the consumers, but will also be more environmentally sustainable.
 ---
 
 ```{r setup, include=FALSE}

@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About Me",
+      "description": "**Wylie Hampson** I am a current graduate student at the Bren School of Environmental Science and Management at UC Santa Barbara, and I am a part of their first ever Masters of Environmental Data Science program. Growing up I was always passionate about being outdoors, so I wanted to find a career that would allow me to work to protect the environment. I got a Bachelors of Science degree from the University of Washington in biology, with a focus in ecology, conservation, and evolution. Since 2017, I have lived in Bellingham, WA, where I worked on the city's aquatic invasive species team as well as the Washington Conservation Corps, an Americorps program. I have thoroughly enjoyed getting a few years of experience doing conservation field work, but I wanted to further my career and apply the more technical math and science skills that I possess to make a larger impact. The current goal for my career is to apply data science tools to find new agricultural techniques that will not only economically benefit the producers and the consumers, but will also be more environmentally sustainable.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-09T10:48:42-07:00"
+      "last_modified": "2021-08-09T11:53:33-07:00"
     },
     {
       "path": "cv.html",
@@ -14,14 +14,14 @@
       "description": "Work Experience",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2021-08-09T10:48:45-07:00"
+      "last_modified": "2021-08-09T11:53:35-07:00"
     },
     {
       "path": "index.html",
       "title": "Wylie Hampson",
       "author": [],
-      "contents": "\n\n          \n          \n          My Website\n          \n          \n          Home\n          About\n          My CV\n          ☰\n          \n          \n      \n        \n          \n            Wylie Hampson\n          \n          \n            \n              This is my professional profile!\n            \n            \n              This is my professional profile!\n            \n          \n\n          \n            \n              \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-08-09T10:48:45-07:00"
+      "contents": "\n\n          \n          \n          My Website\n          \n          \n          Home\n          About Me\n          My CV\n          ☰\n          \n          \n      \n        \n          \n            Wylie Hampson\n          \n          \n            \n              This is my professional profile!\n            \n            \n              This is my professional profile!\n            \n          \n\n          \n            \n              \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-08-09T11:53:36-07:00"
     }
   ],
   "collections": []
