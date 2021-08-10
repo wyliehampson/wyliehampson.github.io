@@ -11,4 +11,4 @@ output:
 site: distill::distill_website
 ---
  
-This is my professional profile!
+This is my professional website!
