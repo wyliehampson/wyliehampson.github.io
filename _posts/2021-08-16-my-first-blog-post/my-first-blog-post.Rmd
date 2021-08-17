@@ -1,0 +1,55 @@
+---
+title: "My First Blog Post"
+description: |
+  My data science introduction.
+author:
+  - name: Wylie Hampson
+    url: {}
+date: 08-16-2021
+output:
+  distill::distill_article:
+    self_contained: false
+preview: images/code_stock.jpeg
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(palmerpenguins)
+```
+
+# A New Journey
+
+I recently just began my graduate school journey at UC Santa Barbara. I'm going through their first ever Masters of Environmental Data Science program. As of making this blog post I have only been in school for a few weeks, but I already feel like I've learned a ton!
+
+## A function I've learned
+
+We've been working heavily with R and RStudio. One function that I've learned about that I think is so cool is the group_by() and summarize() functions. These functions can take a data set and make a summary table that groups it into sub groups. For example, in the classic palmerpenguins data, you can group the penguins by their species and then make a summary table to look at a variable such as mean body size.
+
+```{r}
+# Example:
+penguin_summary <- penguins %>% 
+  group_by(species) %>% 
+  summarize(body_mass_mean = mean(body_mass_g, na.rm = TRUE))
+
+penguin_summary
+```
+
+## One concept I've learned
+
+One major lesson that I've been learning about in environmental data science is the importance of reproducibility. What reproducibility is, is a way of working so that it is easier for other people and your future self to work with your code and data. The idea of reproducibility is that if someone else were to use your code, they would get the same results as you. Other benefits of reproducibility are making it easy to change values in your code and datasets with ease. Instead of needing to go back and change every floating value in your code, you should be able to just change the value in one location. Although this might sound like it makes writing the code more complicated, in the end it will save hours of extra work.
+
+## Data Science: Expectation vs. Reality
+
+I'm learning new things about data science everyday, and I'm realizing my vision for what working in data science would be like isn't exactly the same as how it really is. But, in almost every case, the reality has been much better. Data science can be extremely complex with many different tools that one needs to learn in order to work with data. This was a bit intimidating at first, but once you start to pick up on similarities and patterns in R for example, you find that many of the data science tools are quite intuitive. Although the work can be difficult, the rewards can be major. When you successfully get a set of data to convey a message, in my mind it is one of the coolest things about this field. I've also realized just how collaborative data science can be, and I've already made many connections with people who will help me along the way. 
+
+
+
+
+
+
+
+
+
+
