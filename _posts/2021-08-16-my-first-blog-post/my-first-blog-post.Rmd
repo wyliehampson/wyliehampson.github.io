@@ -6,6 +6,9 @@ author:
   - name: Wylie Hampson
     url: {}
 date: 08-16-2021
+categories:
+  - R
+  - Data Science
 output:
   distill::distill_article:
     self_contained: false
