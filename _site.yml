@@ -1,5 +1,6 @@
 name: "wyliehampson.github.io"
 title: "My Website"
+base_url: https://wyliehampson.github.io/
 description: |
   My Website
 output_dir: "docs"
@@ -13,5 +14,6 @@ navbar:
       href: cv.html
     - text: "Blog"
       href: blog.html
+  source_url: https://github.com/wyliehampson/wyliehampson.github.io
 output: distill::distill_article
 theme: theme.css

@@ -2,6 +2,7 @@
 title: "My First Blog Post"
 description: |
   My data science introduction.
+slug: hampson2021myFirstBlogPost
 author:
   - name: Wylie Hampson
     url: {}

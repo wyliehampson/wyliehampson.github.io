@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>My Website</title>
+    <link>https://wyliehampson.github.io/</link>
+    <atom:link href="https://wyliehampson.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+    <description>My Website
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>My First Blog Post</title>
+      <dc:creator>Wylie Hampson</dc:creator>
+      <link>https://wyliehampson.github.io/posts/2021-08-16-my-first-blog-post</link>
+      <description>My data science introduction.</description>
+      <category>R</category>
+      <category>Data Science</category>
+      <guid>https://wyliehampson.github.io/posts/2021-08-16-my-first-blog-post</guid>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://wyliehampson.github.io/posts/2021-08-16-my-first-blog-post/images/code_stock.jpeg" medium="image" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
