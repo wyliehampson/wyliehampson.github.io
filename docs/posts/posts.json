@@ -1,5 +1,26 @@
 [
   {
+    "path": "posts/2021-12-01-windows-and-well-being/",
+    "title": "Charlie Munger Hates Windows: An Analysis",
+    "description": "Seeing the effects of windows on well-being.",
+    "author": [
+      {
+        "name": "Wylie Hampson",
+        "url": {}
+      }
+    ],
+    "date": "2021-11-28",
+    "categories": [
+      "R",
+      "Data Science",
+      "Statistics"
+    ],
+    "contents": "\n\n\n\nIntroduction\nThis last summer I began a new journey in pursuing my Masters of Environmental Data Science at the Bren School of Environmental Science and Management at the University of California in Santa Barbara. My experience has been nothing short of wonderful so far, but unfortunately for many of the other students at UCSB that has not been the case. I started my school year in the middle of the summer while many of the other students were away, so finding an apartment to live in on campus was easy. As the summer was coming to an end though and students were coming back to campus, it quickly became evident that there were more students than UCSB could house. Oops! Now I’m not here to point fingers and blame anyone, but this was definitely a huge mistake that caused many problems. UCSB tried to combat the issue by putting some students in hotel rooms, but some students even had to resort to living in their cars for the start of Fall Quarter 2021. In an attempt to solve this issue, UCSB decided to build a new big dormitory for students to live in. The proposed dormitory would be a 1.5 billion dollar project, so UCSB started taking donations. One donor was particularly interested in the new dorm. A billionaire by the name of Charlie Munger. Charlie Munger is the vice chairman of Berkshire Hathaway, one of Warren Buffet’s right hand men, and has had previous ties with UCSB. He promised UCSB a 200 million dollar donation on the condition that he could make many of the architectural decisions on the dorm. Sure why not, what’s the worst that could happen? Well… Charlie decided he wanted to build the dorm so that 94% of the rooms didn’t have windows. According to this article from the LA Times , Charlie feels as though students can happily live in windowless bedrooms and do just fine. Now maybe I’m in the minority here, but to me, depriving students of natural light and views, especially in a beautiful place like Santa Barbara, feels a bit… evil. But I’m here studying data science! So before I make any large assumptions about Mr. Munger, I figured I’d first see what the data has to say.\nMy Data\nSo does students having a window in their bedroom really have an effect on their well-being? I figured that there were multiple ways of answering this question. I wanted to find a dataset that would either look at students grades or peoples’ mental/physical health when compared to either their exposure to natural light, or whether or not they have windows in their bedrooms. What I found was a dataset that was taken from Japan in 2020. This dataset was collected to look at how people were being affected by the Covid-19 pandemic by having to spend more time indoors. A survey was collected from 3000 Japanese citizens that asked them questions about their self-esteem, life satisfaction, subjective happiness, depression and anxiety, and loneliness. The participants ranked these questions, which gave them a score for each category. Then the participants were asked questions about how often they go to outdoor green spaces in their area, and whether or not they have a window with a view of nature from the room that they spend most of their time in. More information on this dataset can be found here. This data isn’t perfectly ideal for answer the question I’m looking for, but it rarely is unless I were to collect the data myself, and this data should be able to give us a really good idea about how having windows can affect ones well being.\nMy analysis\nTo start my analysis I decided to filter out the data so that I was only looking at people age 30 and younger. My main reasoning for doing this is because I’m mostly focused on how windows will effect the people that will be living in UCSB’s new dorm, which I assume will primarily be people below the age of 30.\n\n\ndata <- data %>% \n  filter(age <= 30)\n\n\n\nNext, instead of looking at each mental health ranking individually I decided to combine them all together to get one overall well-being score to look at. To do this I added up all of the positive well-being traits which were the scores for life satisfaction, self-esteem, and subjective happiness, then I subtracted all of the negative well-being scores, which were depression and anxiety, and loneliness. This gave me an overall well-being score for each participant.\n\n\n\nFirst question: How does having a view of nature affect well-being.\nI first wanted to know if the mean well-being score of someone who did not have a view of nature had a statistically significant difference from someone who did have a view of nature.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-01T18:05:14-08:00",
+    "input_file": "windows-and-well-being.knit.md"
+  },
+  {
     "path": "posts/2021-08-16-my-first-blog-post/",
     "title": "My First Blog Post",
     "description": "My data science introduction.",
