@@ -10,13 +10,13 @@ categories:
   - Data Science
   - Statistics
 output:
-  html_document:
-    toc: yes
-    df_print: paged
   distill::distill_article:
     toc: yes
     code_folding: no
     self_contained: no
+  html_document:
+    toc: yes
+    df_print: paged
   pdf_document:
     toc: no
 preview: images/munger.png
