@@ -12,12 +12,12 @@ categories:
   - Data Science
   - Statistics
 output:
+  pdf_document:
+    toc: no
   distill::distill_article:
     toc: yes
     code_folding: no
     self_contained: no
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     df_print: paged
@@ -30,6 +30,8 @@ knitr::opts_chunk$set(echo = FALSE)
 library(tidyverse)
 library(here)
 library(janitor)
+library(xtable)
+library(gt)
 ```
 
 ```{r echo = FALSE, message = FALSE}
@@ -83,6 +85,8 @@ ggplot(data = data, aes(x = well_being, y = nature_view)) +
 ```
 
 By looking at the box plot above we can see that the group of people that do have a view of nature from their bedroom seem to have higher well-being scores on average. But are they statistically significant? In order to find that out I ran a t-test:
+
+\small
 
 ```{r echo = TRUE}
 t.test(well_being ~ nature_view, data = data)
