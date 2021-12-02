@@ -13,14 +13,7 @@ categories:
   - Statistics
 output:
   distill::distill_article:
-    toc: yes
-    code_folding: no
-    self_contained: no
-  pdf_document:
-    toc: no
-  html_document:
-    toc: yes
-    df_print: paged
+    self_contained: false
 preview: images/munger.png
 ---
 
