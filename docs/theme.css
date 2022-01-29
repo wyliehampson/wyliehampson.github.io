@@ -16,7 +16,7 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      50px;
+  --title-size:      60px;
   --body-size:       1.06rem;
   --code-size:       14px;
   --aside-size:      12px;
@@ -64,7 +64,7 @@ d-appendix {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+  --bkgd-color:       #549A72;
 }
 
 .distill-site-footer {
@@ -77,3 +77,14 @@ d-appendix {
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below */ 
 
+/* body color */
+
+body {
+  background-color: #C5EBF6;
+}
+
+/* -- header letter spacing, font weight, color -- */
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 3px;
+  font-weight: 300;
+}

@@ -1,5 +1,5 @@
 ---
-title: "My cool CV"
+title: "Resume"
 description: |
   Work Experience
 ---
@@ -10,7 +10,6 @@ library(tidyverse)
 ```
 
 ```{r}
-ggplot(data = diamonds, aes(x = carat, y = price)) +
-  geom_point(aes(color = price))
+
 ```
 

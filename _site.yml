@@ -1,5 +1,5 @@
 name: "wyliehampson.github.io"
-title: "My Website"
+title: "Wylie Hampson"
 base_url: https://wyliehampson.github.io/
 description: |
   My Website
@@ -10,7 +10,7 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
-    - text: "My CV"
+    - text: "Resume"
       href: cv.html
     - text: "Blog"
       href: blog.html
