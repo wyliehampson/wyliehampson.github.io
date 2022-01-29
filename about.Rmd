@@ -10,9 +10,10 @@ editor_options:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-  I am a current graduate student at the Bren School of Environmental Science and Management at UC Santa Barbara, and am a part of the inagural Masters of Environmental Data Science program. Growing up in Washington I was always passionate about being outdoors, so I wanted a career that would allow me to contribute to environmental sustainability. I earned a Bachelors of Science degree from the University of Washington in biology, with a focus in ecology, conservation, and evolution. Since 2017, I have worked on the Bellingham, WA aquatic invasive species team, as well as the Washington Conservation Corps, an Americorps program. These positions allowed me to gain insight on conservation work, but I wanted to further my career and apply the more technical math and science skills that I possess to make a larger impact. I am currently working on my capstone project that involves building a machine learning algorithm that helps interpret and visualize the output data from the RHESSys watershed model, a model developed by the Tague Team Lab at Bren. The goal is to make the RHESSys model more accessible to researchers so that it can be used to help combat the inevitable forest and watershed problems that will arise with climate change in the near future.
-  
-  <center>
 
-![](Wylie_MEDS.JPG){width="30%"}
-</center>
+I am a current graduate student at the Bren School of Environmental Science and Management at UC Santa Barbara, and am a part of the inagural Masters of Environmental Data Science program. Growing up in Washington I was always passionate about being outdoors, so I wanted a career that would allow me to contribute to environmental sustainability. I earned a Bachelors of Science degree from the University of Washington in biology, with a focus in ecology, conservation, and evolution. Since 2017, I have worked on the Bellingham, WA aquatic invasive species team, as well as the Washington Conservation Corps, an Americorps program. These positions allowed me to gain insight on conservation work, but I wanted to further my career and apply the more technical math and science skills that I possess to make a larger impact. I am currently working on my capstone project that involves building a machine learning algorithm that helps interpret and visualize the output data from the RHESSys watershed model, a model developed by the Tague Team Lab at Bren. The goal is to make the RHESSys model more accessible to researchers so that it can be used to help combat the inevitable forest and watershed problems that will arise with climate change in the near future.
+  
+
+
+<center>
+![](images/Wylie_MEDS.JPG){width="30%"} ![](images/brenlogo.jpg){width="90%"}

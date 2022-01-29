@@ -13,6 +13,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300&display=swap');
 
+/*-- Assigning color variable --*/
+
 
 html {
   /*-- Main font sizes --*/
@@ -31,7 +33,7 @@ html {
   --heading-font:    Yanone Kaffeesatz;
   --mono-font:       monospace;
   --body-font:       sans-serif;
-  --navbar-font:     sans-serif;  /* websites + blogs only */
+  --navbar-font:     monospace;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/
@@ -60,9 +62,9 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
-  --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
+  --title-size:       19px;
+  --text-color:       rgba(0, 0, 0, 0.8);
+  --text-size:        19px;
   --hover-color:      white;
   --bkgd-color:       #549A72;
 }

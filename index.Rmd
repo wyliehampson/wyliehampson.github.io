@@ -1,19 +1,20 @@
 ---
 title: "Wylie Hampson"
-image: "wylie.JPG"
+image: "images/wylie.JPG"
 links:
   - label: '<i class="fab fa-github"></i> GitHub'
     url: "https://github.com/wyliehampson"
   - label: '<i class="fa fa-envelope" aria-hidden="true"></i> Email'
     url: "mailto:wyliehampson@gmail.com"
-  - label: '<i class="fab fa-linkedin"></i> Linkdin'
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
     url: "https://www.linkedin.com/in/wylie-hampson-382a06227/"
 color1: "#48B8E8"
 color2: "#A6DAF0"
 angle: 130
 output:
-  postcards::solana
+  postcards::jolla
 site: distill::distill_website
 ---
  
-This is my professional website!
+##### Current masters student at the Bren School of Environmental Science & Management, studying Environmental Data Science. Looking to find new ways to improve the wonderful world we all live on.
+
