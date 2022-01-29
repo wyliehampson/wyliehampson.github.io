@@ -5,14 +5,14 @@
       "title": "About Me",
       "author": [],
       "contents": "\nI am a current graduate student at the Bren School of Environmental Science and Management at UC Santa Barbara, and am a part of the inagural Masters of Environmental Data Science program. Growing up in Washington I was always passionate about being outdoors, so I wanted a career that would allow me to contribute to environmental sustainability. I earned a Bachelors of Science degree from the University of Washington in biology, with a focus in ecology, conservation, and evolution. Since 2017, I have worked on the Bellingham, WA aquatic invasive species team, as well as the Washington Conservation Corps, an Americorps program. These positions allowed me to gain insight on conservation work, but I wanted to further my career and apply the more technical math and science skills that I possess to make a larger impact. I am currently working on my capstone project that involves building a machine learning algorithm that helps interpret and visualize the output data from the RHESSys watershed model, a model developed by the Tague Team Lab at Bren. The goal is to make the RHESSys model more accessible to researchers so that it can be used to help combat the inevitable forest and watershed problems that will arise with climate change in the near future.\n\n\n\n\n\n",
-      "last_modified": "2022-01-29T14:22:17-08:00"
+      "last_modified": "2022-01-29T14:27:28-08:00"
     },
     {
       "path": "blog.html",
       "title": "My Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-29T14:22:18-08:00"
+      "last_modified": "2022-01-29T14:27:28-08:00"
     },
     {
       "path": "cv.html",
@@ -20,14 +20,14 @@
       "description": "Work Experience",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2022-01-29T14:22:19-08:00"
+      "last_modified": "2022-01-29T14:27:29-08:00"
     },
     {
       "path": "index.html",
       "title": "Wylie Hampson",
       "author": [],
       "contents": "\n\n          \n          \n          Wylie Hampson\n          \n          \n          Home\n          About Me\n          Resume\n          Blog\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Wylie Hampson\n          \n          \n            \n              \n              Current masters student at the Bren School of Environmental Science & Management, studying Environmental Data Science. Looking to find new ways to improve the wonderful world we all live on.\n              \n            \n            \n              \n              Current masters student at the Bren School of Environmental Science & Management, studying Environmental Data Science. Looking to find new ways to improve the wonderful world we all live on.\n              \n            \n          \n\n          \n            \n              \n                  \n                    \n                       GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                       Email\n                    \n                  \n                \n                                \n                  \n                    \n                       LinkedIn\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                     GitHub\n                  \n                \n                                \n                  \n                     Email\n                  \n                \n                                \n                  \n                     LinkedIn\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n          \n          © 2021 Wylie Hampson Made with  and the  distill package Last updated on January 29, 2022\n          \n          \n          \n          \n\n    \n  ",
-      "last_modified": "2022-01-29T14:22:19-08:00"
+      "last_modified": "2022-01-29T14:27:29-08:00"
     }
   ],
   "collections": ["posts/posts.json"]
