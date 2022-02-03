@@ -16,5 +16,5 @@ output:
 site: distill::distill_website
 ---
  
-##### Current masters student at the Bren School of Environmental Science & Management, studying Environmental Data Science. Looking to find new ways to improve the wonderful world we all live on.
+##### Current masters student at the Bren School of Environmental Science & Management, studying Environmental Data Science. Looking to use data to find new ways to improve the wonderful world we all live on.
 
