@@ -16,5 +16,4 @@ output:
 site: distill::distill_website
 ---
  
-##### Current masters student at the Bren School of Environmental Science & Management, studying Environmental Data Science. Using data to find new ways to improve the wonderful world we all live on.
-
+##### Current data analyst working to solve problems centered around the Colorado River while traveling around thee country working remoltely from different cities.
