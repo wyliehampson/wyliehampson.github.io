@@ -15,7 +15,7 @@ output:
   postcards::jolla
 site: distill::distill_website
 ---
- 
+
 ##### Environmental Data Scientist. 
 ##### Using data to find new ways to improve the wonderful world we all live on.
 
