@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Wylie Hampson</title>
+    <link>https://wyliehampson.github.io/</link>
+    <atom:link href="https://wyliehampson.github.io/portfolio.xml" rel="self" type="application/rss+xml"/>
+    <description>My Website
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Colorado River Basin Post-2026 Operations Exploration Tool</title>
+      <dc:creator>Wylie Hampson</dc:creator>
+      <link>https://wyliehampson.github.io/posts_portfolio/2024-08-27-dmdu</link>
+      <description>Team: Virga Labs | Client: U.S. Bureau of Reclamation</description>
+      <guid>https://wyliehampson.github.io/posts_portfolio/2024-08-27-dmdu</guid>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <media:content url="https://wyliehampson.github.io/posts_portfolio/2024-08-27-dmdu/images/dmdu_art.png" medium="image" type="image/png" width="452" height="267"/>
+    </item>
+    <item>
+      <title>RiverViz</title>
+      <dc:creator>Wylie Hampson</dc:creator>
+      <link>https://wyliehampson.github.io/posts_portfolio/2024-08-27-riverviz</link>
+      <description>Team: Virga Labs | Client: Arizona State University</description>
+      <guid>https://wyliehampson.github.io/posts_portfolio/2024-08-27-riverviz</guid>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <media:content url="https://wyliehampson.github.io/posts_portfolio/2024-08-27-riverviz/images/riverviz_art.png" medium="image" type="image/png" width="450" height="266"/>
+    </item>
+  </channel>
+</rss>
